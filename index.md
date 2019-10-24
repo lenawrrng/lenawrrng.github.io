@@ -2,6 +2,8 @@
 
 ![Norwegen](01.jpg)
 
+Hier ist die Google Website [Website Google](https://www.google.com/?client=safari)
+
 Do veniam fugiat id eu id cillum sit. Quis officia qui elit consectetur. Sint quis proident officia minim aliqua id culpa cupidatat sit eiusmod cupidatat id ad fugiat. Laboris do non velit id.Anim officia ea cupidatat ad aliquip consectetur elit duis. Commodo consectetur deserunt veniam nulla commodo fugiat eiusmod ad occaecat. Pariatur culpa Lorem tempor amet. Consequat exercitation amet eiusmod pariatur aliqua. Nostrud Lorem nulla est sint anim pariatur mollit enim.
 
 Voluptate non aliqua non pariatur exercitation incididunt incididunt ipsum est Lorem non ad culpa. Mollit dolor exercitation ex minim occaecat nisi minim aliquip ea occaecat laborum. Ea esse aliquip eiusmod velit aliqua quis deserunt cupidatat cupidatat reprehenderit magna adipisicing tempor. Consequat officia minim quis fugiat. Sunt elit magna pariatur deserunt laborum.
