@@ -1,6 +1,12 @@
 # Die Beschaffungsfunktion als Bestandteil des Unternehmen
 
+<p>
+<p>
+
 ![Beschaffung](Beschaffung.jpg)
+
+<p>
+<p>
 
 ## **1 Einleitung**
 
