@@ -4,12 +4,14 @@
 @import "{{ site.theme }}";
 @import url("https://fonts.googleapis.com/css?family=Montserrat&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Open+Sans&display=swap");
+
 body {
   font-family: "Montserrat", sans-serif;
   color: blue;
   text-align: justify;
 }
 
+/*
 h1,
 h2,
 h3,
@@ -36,3 +38,5 @@ img {
 #forkme_banner {
   background: url("../images/blacktocat.png") transparent no-repeat 95% 50%;
 }
+
+*/
