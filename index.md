@@ -1,6 +1,7 @@
 # Die Beschaffungsfunktion als Bestandteil des Unternehmens
 
-![Beschaffung](Beschaffung.jpg)
+<center>
+![Beschaffung](Beschaffung.jpg)</center>
 
 ## **1 Einleitung**
 
@@ -20,7 +21,7 @@ Im Verlauf der vorliegenden Arbeit steht der engere Definitionsbegriff im Fokus.
 
 ### **2.1 Funktion im Wertschöpfungsprozess**
 
-Die Beschaffungsfunktion gehört im Unternehmen als fester Bestandteil zum Wertschöpfungsprozess. Sie steht vor der Aufgabe, das Unternehmen mit dem für die Wertschöpfung notwendigen Input zu versorgen. Dazu gehören im Wesentlichen materielle Güter, Dienstleistungen, Energieprodukte oder auch Rechte. Diese Inputfaktoren werden auch als Beschaf- fungsobjekte bezeichnet. Bei der Versorgungsabsicherung folgt die Beschaffung vier Grundsätzen, die das Management erleichtern:
+Die Beschaffungsfunktion gehört im Unternehmen als fester Bestandteil zum Wertschöpfungsprozess. Sie steht vor der Aufgabe, das Unternehmen mit dem für die Wertschöpfung notwendigen Input zu versorgen. Dazu gehören im Wesentlichen materielle Güter, Dienstleistungen, Energieprodukte oder auch Rechte. Diese Inputfaktoren werden auch als Beschaffungsobjekte bezeichnet. Bei der Versorgungsabsicherung folgt die Beschaffung vier Grundsätzen, die das Management erleichtern:
 
 - Kosten senken,
 - Qualität verbessern,
