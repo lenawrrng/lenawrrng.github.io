@@ -1,7 +1,6 @@
 # Die Beschaffungsfunktion als Bestandteil des Unternehmens
 
-
-![Beschaffung](Beschaffung.jpg) 
+![Beschaffung](Beschaffung.jpg)
 
 ## **1 Einleitung**
 
@@ -30,7 +29,7 @@ Die Beschaffungsfunktion gehört im Unternehmen als fester Bestandteil zum Wert
 
 Die Beschaffung stellt das Bindeglied zwischen der betrieblichen Wertschöpfung und den Beschaffungsmärkten dar und ist daher fest im Unternehmen als Organisationseinheit verankert (Bräkling und Oidtmann, 2012, S. 4-5). Nachhaltiges und profitables Wachstum ist vielen Unternehmen sehr wichtig und wird aktiv priorisiert. Alle Funktionen im Unternehmen müssen ihren Beitrag leisten, damit dieses Ziel erfolgreich gewährleistet werden kann. Die Beschaffungsfunktion trägt ebenso ihren Teil dazu bei wie alle anderen Geschäftseinheiten. Ihr Ziel ist die Sicherstellung der Versorgung zu optimalen Kosten, um die Unternehmensziele zu garantieren (Bräkling und Oidtmann, 2019, S. 3). Darüber hinaus beeinflusst die Beschaffung erheblich die Kosten und den Gewinn eines Unternehmens.
 
-![Hebelwirkung Beschaffung](02.jpg)
+![Hebelwirkung Beschaffung](Test.jpg)
 
 Sie kann zur Kostensenkung beitragen und verbessert somit die Erlöse. Die Umsatzerlöse von Unternehmen werden heute zu mehr als 50 Prozent für Güter und Dienstleistungen verwendet, die von Lieferanten bezogen werden. Folglich sollten Lieferantenbeziehungen effizient und konstruktiv gestaltet sein, um kurzfristige Finanzergebnisse und langfristige Stellungen im Wettbewerb zu sichern (Weele und Eßig, 2017, S. 13).
 
